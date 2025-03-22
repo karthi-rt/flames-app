@@ -1,16 +1,21 @@
-# flames_app
+# FLAMES Relationship Calculator
 
-A new Flutter project.
+## Overview
+A simple Flutter app that calculates your relationship status using the classic **FLAMES** game. Enter your name and your partner's name to see the result!
 
-## Getting Started
+## Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/flames-relationship-calculator.git
 
-This project is a starting point for a Flutter application.
+2. Navigate to the project folder:
+   ```sh
+   cd flames-relationship-calculator
 
-A few resources to get you started if this is your first Flutter project:
+3. Install dependencies:
+   ```sh
+   flutter pub get
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. Run the app:
+   ```sh
+   flutter run
